@@ -1,0 +1,20 @@
+nav {
+    background-color: #333;
+    color: white;
+    height: 100vh;
+    padding: 20px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin: 10px 0;
+}à
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,39 @@
+/* Style pour h1 */
+h1 {
+    text-align: center;
+    color: blue;
+    font-size: 24px;
+}
+
+/* Style pour p */
+p {
+    text-align: justify;
+    color: gray;
+}
+
+/* Style pour ul */
+ul {
+    list-style-type: square;
+    color: green;
+}
+
+/* Style pour a */
+a {
+    text-decoration: underline;
+}
+
+a:hover {
+    color: red;
+}
+
+/* Style pour la div avec l'ID spécifique */
+#specificDiv {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 20px;
+}
+
+/* Style pour h2 dans la div */
+#specificDiv h2 {
+    color: orange;
+}

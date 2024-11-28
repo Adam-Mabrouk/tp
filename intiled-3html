@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+    <head>
+        <title>Mon cv</title>
+        <body style="background-color: powderblue;"></body>
+
+    </head>
+    <body>
+        <h1 style="text-align: center;">Mon cv</h1>
+        <p><b>adam mabrouk</b></p>
+        <ul>
+            <li><u style="color: yellow;">
+                devlepoment
+            
+            </u></li>
+            <li>
+                angalis
+            </li>
+            <li>
+                français
+            </li>
+        </ul>
+    </body>
+</html>
